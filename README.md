@@ -1,4 +1,3 @@
-- 👋 My name is Mahammad Taghizada
 - 🛠️ I like software
 - 📫 Contact me if you need one: taghizada.mahammad@gmail.com
 
